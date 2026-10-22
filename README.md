@@ -14,14 +14,6 @@ Building web applications and contributing to open source.
 
 My contributions to **Kestra** span workflow tooling, UI improvements, and database plugins.
 
-| Contribution | Merged PR |
-| --- | --- |
-| Fixed plugin documentation lookup for nested YAML task runners | [kestra #20427](https://github.com/kestra-io/kestra/pull/20427) |
-| Added Neo4j query parameters and database selection | [plugin-neo4j #238](https://github.com/kestra-io/plugin-neo4j/pull/238) |
-| Added resource cleanup when MongoDB polling triggers are cancelled | [plugin-mongodb #137](https://github.com/kestra-io/plugin-mongodb/pull/137) |
-| Linked flow triggers to their executions, with trigger-based filtering | [kestra #19804](https://github.com/kestra-io/kestra/pull/19804) |
-| Fixed standalone flow loading after plugin initialization | [kestra #19778](https://github.com/kestra-io/kestra/pull/19778) |
-
 ## Selected Projects
 
 ### [FinTrack](https://github.com/dhruvgupta9/fintrack)
